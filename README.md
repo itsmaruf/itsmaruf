@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/640/0*yYHNI8pIsLlIpRgs.gif"/>
+  <img src="https://i.ibb.co/rHmPS47/hello.png" style="width: 100%"/>
 </div>
-
-<h1 align="center">Hi There 👋</h1> 
 
 <br>
 
