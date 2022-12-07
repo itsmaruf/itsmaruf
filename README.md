@@ -39,6 +39,8 @@ Currently, I'm working as Associate Frontend Deverloper in a reknowned company o
 
 
 ### 🔥 My-Stats :
+![](https://komarev.com/ghpvc/?username=itsmaruf)
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmaruf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsmaruf&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -70,5 +72,8 @@ Currently, I'm working as Associate Frontend Deverloper in a reknowned company o
    <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
    </a>
+   
    <br>
 </div>
+
+
